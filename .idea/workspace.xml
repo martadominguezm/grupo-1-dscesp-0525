@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8227644f-bf9f-4ddb-839b-de8be71722ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TFM/classification_model/modelling_inversion.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TFM/classification_model/modelling_pension_plan.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TFM/classification_model/preprocessing.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TFM/clustering/clustering_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TFM/clustering/clustering_model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TFM/clustering/data/df_for_clustering.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TFM/clustering/data/df_for_clustering.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TFM/clustering/graficos_numeric_cols_clusters.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TFM/clustering/graficos_numeric_cols_clusters.pdf" afterDir="false" />
