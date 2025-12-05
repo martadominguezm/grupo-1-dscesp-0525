@@ -4,6 +4,7 @@ TFM/clustering/data/*.csv
 TFM/clustering/*.pdf
 TFM/clustering/models/*.pkl
 TFM/data/datasets_TFM + diccionario/*.csv
+TFM/classification_model/data/*.csv
 TFM/data/pbi_datasets/*.csv
 TFM/data/datasets_TFM + diccionario/*.xlsx
 entregable3/data/*.csv
