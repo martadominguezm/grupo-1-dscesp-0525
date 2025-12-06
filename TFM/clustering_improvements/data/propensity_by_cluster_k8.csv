@@ -1,0 +1,9 @@
+cluster,cluster_name,propensity_pension,propensity_investment
+1,Universitarios Estándar,0.0184,0.0162
+2,Inactivos Totales,0.0039,0.0016
+3,Profesionales Dormidos,0.0442,0.035
+4,Alto Valor Principal,0.1303,0.1043
+5,Jóvenes Activos Básicos,0.0119,0.0081
+6,Alto Potencial Virgen,0.036,0.0285
+7,Valor Medio-Alto,0.1018,0.075
+8,Emergentes Premium,0.0596,0.0547
