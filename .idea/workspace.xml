@@ -4,88 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8227644f-bf9f-4ddb-839b-de8be71722ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TFM/use_case/propensity_and_clustering_union.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/Sales.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/TFM_sociodemography.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/classification_model/data/processed/df_inversion_family_scored.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/classification_model/data/processed/df_pension_plan_scored.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/classification_model/modelling_inversion.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/classification_model/modelling_pension_plan.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/classification_model/preprocessing.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering/clustering_isma.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/ANALISIS_COMPARATIVO_K6_VS_K8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/TABLA_CLUSTERS_K8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_metrics.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_metrics_normalized.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_profiles.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_profiles_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_recommendations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/cluster_recommendations_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/comparativa_pension_investment_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/customer_clusters.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/customer_clusters_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/investment_cluster_absolutos_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/investment_cluster_pct_col_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/investment_cluster_pct_fila_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/matriz_cluster_propension_absolutos_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/matriz_cluster_propension_pct_col_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/matriz_cluster_propension_pct_fila_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/pension_cluster_absolutos_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/pension_cluster_pct_col_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/pension_cluster_pct_fila_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/product_penetration.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/product_penetration_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/product_strategy_by_cluster.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/product_strategy_by_cluster_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/propensity_by_cluster.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/propensity_by_cluster_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/resumen_cluster_propension_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/resumen_investment_cluster_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/resumen_pension_cluster_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/top_customers_investment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/top_customers_investment_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/top_customers_pension.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/data/top_customers_pension_k8.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/models/kmeans_k10_optimized.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/models/kmeans_k8.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/01_cluster_optimization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/01_cluster_optimization_COMPLETO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/01b_retrain_k8.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/02_cluster_profiling_COMPLETO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/02_cluster_profiling_k8.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/03_visualizations_COMPLETO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/03_visualizations_k8.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/04_propensity_integration_COMPLETO.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/04_propensity_integration_k8.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/notebooks/05_matriz_propension_clusters.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/run_notebook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/cluster_distribution.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/cluster_distribution_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/cluster_optimization.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/distributions_by_cluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/distributions_by_cluster_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/heatmap_cluster_propension_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/heatmap_investment_cluster_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/heatmap_pension_cluster_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/product_penetration_heatmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/product_penetration_heatmap_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/propensity_distributions.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/propensity_distributions_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/propensity_heatmap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/propensity_heatmap_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/radar_charts.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/radar_charts_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/tsne_2d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/clustering_improvements/visualizations/tsne_2d_k8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/customer_products.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/customer_sociodemographics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/notebook_commercial_activity.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TFM/preprocessing.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="8227644f-bf9f-4ddb-839b-de8be71722ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="alex_clustering_improvements" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "marta__tarea__4",
+    "git-widget-placeholder": "marta__modelo__cards",
     "last_opened_file_path": "/Users/martadom/Desktop/NUCLIO/MASTER DS/grupo-1-dscesp-0525/TFM/use_case",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
