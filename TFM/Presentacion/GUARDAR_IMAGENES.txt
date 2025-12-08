@@ -1,0 +1,35 @@
+INSTRUCCIONES PARA GUARDAR LAS 5 IMÁGENES
+==========================================
+
+Tienes que guardar las 5 imágenes de PowerBI que me enviaste al principio.
+
+CÓMO HACERLO:
+
+1. Busca las 5 imágenes en nuestro chat (scroll arriba)
+2. Para cada imagen:
+   - Haz clic derecho sobre la imagen
+   - "Guardar imagen como..." o "Save Image As..."
+   - Guárdala en esta carpeta con el nombre exacto indicado:
+
+CARPETA DESTINO:
+/Users/alex/Desktop/TFM_final/grupo-1-dscesp-0525/TFM/Presentacion/imagenes_powerbi/
+
+NOMBRES EXACTOS (copia y pega al guardar):
+
+Imagen 1 (la de márgenes distribución con dos gráficos):
+→ imagen_1_margenes_distribucion.png
+
+Imagen 2 (la de propensión por clusters con Pension/Investment/Payment card):
+→ imagen_2_propension_clusters.png
+
+Imagen 3 (la del dashboard con ventas mayo 2019, mapa, tendencias):
+→ imagen_3_temporal_geografico.png
+
+Imagen 4 (la de densidad clientes, mapa España, edad):
+→ imagen_4_demografico.png
+
+Imagen 5 (la del margen medio 606.88, pie chart 79% pensión):
+→ imagen_5_margen_familias.png
+
+
+Una vez guardadas las 5 imágenes, avísame y yo las insertaré automáticamente en el PowerPoint.
